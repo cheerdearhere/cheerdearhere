@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cheerdearhere
-- 👀 I’m interested in web and android application.
-- 🌱 I’m currently learning Java, Spring framework ... etc. 
+- 👀 I’m interested in web application with Java.
+- 🌱 and basics of javascript, python...etc.
+-  thank you.
 
 <!---
 cheerdearhere/cheerdearhere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
